@@ -1,0 +1,19 @@
+{
+  "name": "settings-mixin",
+  "version": "1.0.0",
+  "description": "A simple mixin for setting/getting settings for a class. Made with ES2016",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/**.js"
+  },
+  "keywords": [
+    "settings",
+    "mixin"
+  ],
+  "author": "Mikal Stordal",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
